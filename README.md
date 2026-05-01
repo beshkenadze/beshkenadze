@@ -19,9 +19,3 @@ I like taking ideas from "not sure this will work" to running in production. Mos
 [Caesar](https://caesar.team) — open-source zero-knowledge password manager for teams. AES-256 + RSA-4096, all encryption client-side, the server never sees plaintext. I designed the crypto architecture and built it from scratch.
 
 [bitnami-pgvector-search](https://github.com/beshkenadze/bitnami-pgvector-search) — multi-arch Docker image combining PostgreSQL, pgvector, and pg_search. Gets auto-built and tested via GitHub Actions.
-
-## Background
-
-Co-founded [4xxi](https://github.com/4xxi) (product dev for US/UK clients) and Denovo (AI/ML consulting, fractional CTO). Built products across legal tech, fintech, edtech. Before that — mobile dev, Android, startups in various states of aliveness.
-
-These days I'm especially interested in RAG pipelines, vector search, MCP servers, local-first apps, and making AI tools that actually work in production rather than just in demos.
